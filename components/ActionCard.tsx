@@ -14,7 +14,7 @@ export default function ActionCard() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.headingText}>Action Card</Text>
+      <Text style={styles.headingText}>Blog Card</Text>
 
       <TouchableOpacity
         style={styles.button}
